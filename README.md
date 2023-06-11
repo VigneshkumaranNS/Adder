@@ -75,8 +75,10 @@ endmodule
 ![DE3 2](https://github.com/VigneshkumaranNS/Adder/assets/119484483/58c9a895-2b4c-4ba1-a5e2-bc98d1242951)
 
 ## Timing Diagram:
-![DE3 3](https://github.com/VigneshkumaranNS/Adder/assets/119484483/67793c32-2345-451c-80d8-436a3e7d40fd)
-
+1.
+!0[DE3 3](https://github.com/VigneshkumaranNS/Adder/assets/119484483/67793c32-2345-451c-80d8-436a3e7d40fd)
+2.
+![DE3 4](https://github.com/VigneshkumaranNS/Adder/assets/119484483/5f0b33f9-ea2c-4149-a4d2-b2acd06cd4f0)
 
 ## Result:
 Thus the half adder and full adder circuits are designed and implemented and the truth tables are verified.
