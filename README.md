@@ -76,7 +76,7 @@ endmodule
 
 ## Timing Diagram:
 1.
-!0[DE3 3](https://github.com/VigneshkumaranNS/Adder/assets/119484483/67793c32-2345-451c-80d8-436a3e7d40fd)
+![DE3 3](https://github.com/VigneshkumaranNS/Adder/assets/119484483/67793c32-2345-451c-80d8-436a3e7d40fd)
 2.
 ![DE3 4](https://github.com/VigneshkumaranNS/Adder/assets/119484483/5f0b33f9-ea2c-4149-a4d2-b2acd06cd4f0)
 
